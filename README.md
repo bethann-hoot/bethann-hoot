@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bethann-hoot
 - 👀 I’m interested in learning as much as I can
-- 🌱 I’m currently learning energy efficient workload management for data centers
+- 🌱 I’m currently continuing my education independantly while on the job search
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Bears eat beets. 
 
